@@ -8,7 +8,7 @@ pipeline {
 
     environment {
         APP_NAME       = "express-login-ui"
-        IMAGE_NAME     = "digvijay2002"
+        IMAGE_NAME     = "digvijay2002/express-login-ui"
         CONTAINER_PORT = "3000"
         HOST_PORT      = "3000"
     }
